@@ -1,0 +1,6 @@
+C:\Users\AcademyPgh\source\repos\cashier\cashier\bin\Debug\cashier.exe.config
+C:\Users\AcademyPgh\source\repos\cashier\cashier\bin\Debug\cashier.exe
+C:\Users\AcademyPgh\source\repos\cashier\cashier\bin\Debug\cashier.pdb
+C:\Users\AcademyPgh\source\repos\cashier\cashier\obj\Debug\cashier.csprojAssemblyReference.cache
+C:\Users\AcademyPgh\source\repos\cashier\cashier\obj\Debug\cashier.exe
+C:\Users\AcademyPgh\source\repos\cashier\cashier\obj\Debug\cashier.pdb
